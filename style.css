@@ -1,0 +1,19 @@
+.header_div{
+   color: red;
+   font-family: 'Special Elite', cursive;
+   text-align: center;
+}
+.Note{
+    text-align: center;
+    font-weight: bold;
+}
+.Main_div{
+    background: linear-gradient(red, pink);
+}
+.header_color{
+    background-color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
